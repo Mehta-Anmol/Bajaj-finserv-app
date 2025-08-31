@@ -1,9 +1,9 @@
 {
   "name": "bfhl-api",
   "version": "1.0.0",
-  "description": "BFHL assignment REST API (POST /bfhl) - Node.js/Express + Vercel serverless function",
+  "description": "BFHL assignment REST API (POST /bfhl) - Node.js/Express",
   "main": "index.js",
-  "license": "MIT",
+  "license": "",
   "scripts": {
     "start": "node index.js"
   },
